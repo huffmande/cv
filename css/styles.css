@@ -1,0 +1,28 @@
+th,
+td {
+  padding: 1px;
+}
+
+th {
+  text-align: left;
+}
+
+.skills {
+  column-count: 2;
+  column-gap: 5px;
+}
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-color: #D3D3D3;
+  border-style: dotted none none;
+  width: 7%;
+  border-width: 5px;
+}
+
+h1, h3 {
+  color: #66BFBF
+}
